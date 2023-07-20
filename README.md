@@ -15,7 +15,7 @@ Foodie is a food ordering website which is aimed at developing an online orderin
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 
-##Features
+## Features
 
 1. It has a Login/SignUp feature where user can enter their details while will be saved in the database of the project.
 2. It has an 'Add to Cart' feature where user can select their food items and add them to this cart for checking it out.
