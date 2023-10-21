@@ -49,6 +49,7 @@ export default function Login() {
       <div>
         <Navbar />
       </div>
+      <br/>
     <div>
       <div className='container'>
         <form onSubmit={handleSubmit}>
