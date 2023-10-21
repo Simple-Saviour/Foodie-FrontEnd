@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import Navbar from '../components/Navbar';
 import { Link } from 'react-router-dom';
 
 export default function Signup() {
@@ -45,6 +45,9 @@ export default function Signup() {
   return (
     <>
     <div style={{backgroundImage: 'url("https://images.pexels.com/photos/326278/pexels-photo-326278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")', height: '100vh', backgroundSize: 'cover' }}>
+      <div>
+        <Navbar />
+      </div>
       <div className='container'>
         <form onSubmit={handleSubmit}>
           <div className='mb-3'>
